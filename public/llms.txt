@@ -1,0 +1,5 @@
+# Open PRO
+
+> Answers from your team's files, in one line.
+
+- [Pricing](https://nerai-labs.github.io/rp-site-next/pricing/)

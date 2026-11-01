@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nerai-labs.github.io/rp-site-next/sitemap.xml
