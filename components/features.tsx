@@ -39,9 +39,18 @@ export default function Features() {
                 Advanced Controls
               </span>
             </div>
-            <h2 className="animate-[gradient_6s_linear_infinite] bg-[linear-gradient(to_right,var(--color-gray-200),var(--color-indigo-200),var(--color-gray-50),var(--color-indigo-300),var(--color-gray-200))] bg-[length:200%_auto] bg-clip-text pb-4 font-nacelle text-3xl font-semibold text-transparent md:text-4xl">Built for product teams that ship every week</h2>
-            <p className="text-lg text-indigo-200/65">Open PRO reads the specs, tickets and research your team already writes, then answers a product question in one line with the source beside it. Nobody has to keep a second wiki up to date.</p>
-            <p className="text-lg text-indigo-200/65">Teams at seed stage use it to onboard their first product manager in a week; larger teams use it to keep design, engineering and support on the same page. Read how <a className="text-indigo-300 underline" href="/rp-site-next/signin/">product teams use it</a>.</p>
+            <h2 className="animate-[gradient_6s_linear_infinite] bg-[linear-gradient(to_right,var(--color-gray-200),var(--color-indigo-200),var(--color-gray-50),var(--color-indigo-300),var(--color-gray-200))] bg-[length:200%_auto] bg-clip-text pb-4 font-nacelle text-3xl font-semibold text-transparent md:text-4xl">
+              Built for modern product teams
+            </h2>
+            <p className="text-lg text-indigo-200/65">
+              Open AI reads and understands your files, and with nothing more
+              than a single line of feedback, so you can go further than the
+              speed of thought. Read how{" "}
+              <a className="text-indigo-300 underline" href="/rp-site-next/signin/">
+                product teams use it
+              </a>
+              .
+            </p>
           </div>
           <div className="flex justify-center pb-4 md:pb-12" data-aos="fade-up">
             <Image
