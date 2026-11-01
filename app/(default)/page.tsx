@@ -1,6 +1,6 @@
 export const metadata = {
   title: "Home - Open PRO",
-  description: "Page description",
+  description: "Open PRO reads your team's files and answers in one line, so product teams ship faster.",
 };
 
 import PageIllustration from "@/components/page-illustration";
