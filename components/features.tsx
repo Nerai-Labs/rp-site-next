@@ -45,7 +45,11 @@ export default function Features() {
             <p className="text-lg text-indigo-200/65">
               Open AI reads and understands your files, and with nothing more
               than a single line of feedback, so you can go further than the
-              speed of thought.
+              speed of thought. Read how{" "}
+              <a className="text-indigo-300 underline" href="/rp-site-next/signin/">
+                product teams use it
+              </a>
+              .
             </p>
           </div>
           <div className="flex justify-center pb-4 md:pb-12" data-aos="fade-up">
